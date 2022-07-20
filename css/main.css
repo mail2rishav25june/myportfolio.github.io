@@ -1396,7 +1396,7 @@ textarea.form-control, textarea.form-control:focus {
   list-style: none;
 }
 
-.knowledges li {;
+.knowledges li {
   display: inline-block;
   background-color: #04b4e0;
   border-radius: 3px;
@@ -1611,6 +1611,7 @@ textarea.form-control, textarea.form-control:focus {
 .portfolio-item-img {
   position: relative;
   overflow: hidden;
+  height: 425px;
 }
 
 .portfolio-grid figure .portfolio-item-img:after {
